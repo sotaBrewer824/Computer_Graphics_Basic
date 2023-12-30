@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab4\main.cpp(170,15): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  Lab4.vcxproj -> D:\CS\CSDIY\Computer_Graphics_XJTU\Lab4\Debug\Lab4.exe

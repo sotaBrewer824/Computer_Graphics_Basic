@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CS\CSDIY\Computer_Graphics_XJTU\Final_Project\main.cpp(47,43): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Final_Project\main.cpp(48,42): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  Final_Project.vcxproj -> D:\CS\CSDIY\Computer_Graphics_XJTU\Final_Project\Debug\Final_Project.exe

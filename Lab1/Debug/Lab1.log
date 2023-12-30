@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(18,37): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(39,30): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(42,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(43,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(44,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(45,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(46,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(47,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(68,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(69,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(70,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(71,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(72,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(73,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\main.cpp(101,30): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  Lab1.vcxproj -> D:\CS\CSDIY\Computer_Graphics_XJTU\Lab1\Debug\Lab1.exe
